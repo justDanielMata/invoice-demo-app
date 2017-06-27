@@ -1,0 +1,10 @@
+.visibilityContainer {
+  display: flex;
+  padding-top: 4em;
+  justify-content: center;
+}
+
+.visibilityItem {
+  margin-left: 1em;
+  color: lightgray;
+}
